@@ -45,10 +45,12 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+<img width="1600" height="834" alt="WhatsApp Image 2026-10-06 at 9 11 06 PM" src="https://github.com/user-attachments/assets/cb458465-9484-4aef-88be-42a43efe62d2" />
 
 
 b.  KCL:
- 
+ <img width="1600" height="864" alt="WhatsApp Image 2026-10-06 at 9 21 49 PM" src="https://github.com/user-attachments/assets/72cf8a17-8f03-475a-a1e0-138ff5ab7a6e" />
+
 
 Calculation:
 
