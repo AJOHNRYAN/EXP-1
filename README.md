@@ -50,17 +50,14 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
- 
 <img width="1005" height="1600" alt="WhatsApp Image 2026-10-11 at 4 30 18 PM" src="https://github.com/user-attachments/assets/254aec19-d205-43a9-b97f-e7656a8c2507" />
 
 b.  KCL:
-
 <img width="1035" height="1598" alt="WhatsApp Image 2026-10-11 at 4 36 14 PM" src="https://github.com/user-attachments/assets/a11caf04-83f7-4cf3-955c-a0dd93909d93" />
 
 Tabulation:
 
 a.   KVL:
- 
  <img width="1599" height="888" alt="WhatsApp Image 2026-10-11 at 4 21 56 PM" src="https://github.com/user-attachments/assets/dd90dee9-2a56-49db-a1ad-42f7f069f1b2" />
 
 b.  KCL:
