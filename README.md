@@ -17,7 +17,6 @@ KVL: Kirchhoff's voltage law states that the sum of the voltage differences arou
 KCL:
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
-
 PROCEDURE:
 a.   KVL:
 1.   Connect as per the circuit diagram.
@@ -41,30 +40,22 @@ CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
-
 a.   KVL:
  
 <img width="1600" height="834" alt="WhatsApp Image 2026-10-06 at 9 11 06 PM" src="https://github.com/user-attachments/assets/cb458465-9484-4aef-88be-42a43efe62d2" />
 
-
 b.  KCL:
  <img width="1600" height="864" alt="WhatsApp Image 2026-10-06 at 9 21 49 PM" src="https://github.com/user-attachments/assets/72cf8a17-8f03-475a-a1e0-138ff5ab7a6e" />
-
 
 Calculation:
 
 a.   KVL:
  
-
 <img width="1005" height="1600" alt="WhatsApp Image 2026-10-11 at 4 30 18 PM" src="https://github.com/user-attachments/assets/254aec19-d205-43a9-b97f-e7656a8c2507" />
-
 
 b.  KCL:
 
-
 <img width="1035" height="1598" alt="WhatsApp Image 2026-10-11 at 4 36 14 PM" src="https://github.com/user-attachments/assets/a11caf04-83f7-4cf3-955c-a0dd93909d93" />
-
-
 
 Tabulation:
 
@@ -74,9 +65,6 @@ a.   KVL:
 
 b.  KCL:
 <img width="1310" height="600" alt="WhatsApp Image 2026-10-11 at 4 22 13 PM" src="https://github.com/user-attachments/assets/dad8b9af-f2e6-4275-88b9-040a456975b4" />
-
-
-
 
 RESULT:
 
